@@ -16,6 +16,9 @@
   5. 실시간 채팅 ( 온/오프라인 표시, 읽음 처리, 이미지 첨부, 메시지 입력 중 상태보기 )
   6. 챗봇 기능
   7. 웹 사이트 화폐충전 기능 ( 구현 예정 )
+ 
+
+
 
 본 프로젝트는 비상업적 포트폴리오 목적으로만 공개되었으며, 무단 복제 및 상업적 사용을 금합니다.  
 This project is publicly shared for non-commercial portfolio purposes only.  
